@@ -57,6 +57,7 @@ Chaque rôle possède :
 
 ## Architecture du projet
 
+```
 talenthub-auth/
 ├── public/
 │   └── index.php
@@ -102,3 +103,4 @@ talenthub-auth/
 │   └── schema.sql
 │
 └── README.md
+```
