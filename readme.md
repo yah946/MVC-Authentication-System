@@ -66,19 +66,19 @@ talenthub-auth/
 │   │   ├── AuthController.php
 │   │   ├── CandidateController.php
 │   │   ├── RecruiterController.php
-│   │   └── AdminController.ph
-│   │
+│   │   └── AdminController.php
+│
 │   ├── Services/
 │   │   └── AuthService.php
-│   │
+│
 │   ├── Models/
 │   │   ├── User.php
 │   │   └── Role.php
-│   │
+│
 │   ├── Repositories/
 │   │   ├── UserRepository.php
 │   │   └── RoleRepository.php
-│   │
+│
 │   ├── Views/
 │   │   ├── auth/
 │   │   │   ├── login.php
@@ -91,7 +91,7 @@ talenthub-auth/
 │   │   │   └── dashboard.php
 │   │   └── errors/
 │   │       └── 403.php
-│   │
+│
 │   ├── Router.php
 │   └── Database.php
 │
