@@ -1,0 +1,9 @@
+{
+    "name": "youcode/mvc-authentication-system",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
